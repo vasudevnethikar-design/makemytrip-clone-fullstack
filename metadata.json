@@ -1,0 +1,6 @@
+{
+  "name": "Travel Booking Platform",
+  "description": "A premium, fully responsive multi-vertical travel booking platform featuring advanced flights and hotels search, list filters, detail modals, and a complete simulated checkout and booking flight flow with local profile history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
